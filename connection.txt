@@ -1,0 +1,3 @@
+psql postgres://postgres:anUVkuRvBzS3tGxeoLQppQLa40LQTiAvmvMA8WeHggciY2o3guW1mIomurevSXNK@p.geghjmp7pndppb3ogiipbvrj7y.db.postgresbridge.com:5432/postgres
+
+Testing
